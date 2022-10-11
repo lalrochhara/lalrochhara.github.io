@@ -7,5 +7,5 @@
   <a href="https://lalrochhara.github.io/lalrochhara.github.io/docs/">Documentation</a>
 
   <a href="https://lalrochhara.github.io/lalrochhara.github.io"><img src="screenshot.gif"></a>
-  <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
+  <sub><sup>© 2022 Nicky Lalrochhara, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
 </div>
